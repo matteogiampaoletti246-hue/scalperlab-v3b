@@ -1,0 +1,6 @@
+{
+  "name": "ScalperLab",
+  "description": "Piattaforma editoriale e analitica di statistiche calcistiche, quote valore, formazioni live e calcolatore di affidabilità.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
